@@ -52,3 +52,12 @@ This internship is for the software development role for "Web Technologies" doma
 
 7/6/2024 - 8/6/2024
 -> Included the requested components in the admin panel and had meet with HR for the review.
+
+10/6/2024 - 11/6/2024
+-> After getting the reiwed from the HR the changes have been made.
+
+12/6//2024
+-> Had made final changes in the admin panel.
+
+13/6/2024
+-> Had a final meetup with the sir for all the updates and changes.
